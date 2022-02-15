@@ -42,7 +42,7 @@ You can fork or edit this source code !
 
 ```
 ✅ = Available
-❌ = Not Available Yet
+❌ = Not Yet Available
 ```
 
 ### App User Interface
