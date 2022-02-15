@@ -18,7 +18,7 @@
 
 ### How to use
 
-1. Clone this repo `git clone https://github.com/aldinokemal/go-whatsapp-web-multi-device`
+1. Clone this repo 
 2. run `go run main.go`
 3. open `http://localhost:3000`
 
